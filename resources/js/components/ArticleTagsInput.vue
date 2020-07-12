@@ -56,7 +56,9 @@ export default {
     },
   },
 };
-</script><style lang="css" scoped>
+</script>
+
+<style lang="css" scoped>
   .vue-tags-input {
     max-width: inherit;
   }
