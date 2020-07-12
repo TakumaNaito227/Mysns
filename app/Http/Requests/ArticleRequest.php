@@ -47,5 +47,5 @@ class ArticleRequest extends FormRequest
                 return $requestTag->text;
             });
     }
-    
+
 }
