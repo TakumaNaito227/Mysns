@@ -13,5 +13,4 @@ class TagController extends Controller
 
         return view('tags.show', ['tag' => $tag]);
     }
-
 }
