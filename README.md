@@ -26,10 +26,10 @@ Mysns
 # 開発環境  
  ・PHP  
  ・Laravel  
- ・Vue.js
- ・SQL
- ・Docker
- ・Heroku
+ ・Vue.js  
+ ・SQL  
+ ・Docker  
+ ・Heroku  
  ・Github  
 
 # DB設計
