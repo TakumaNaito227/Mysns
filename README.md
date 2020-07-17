@@ -40,6 +40,12 @@ TOPページ
  ・タグ機能  
  ・フォロー機能  
   
+# 接続先情報
+URL http://my-snsx.herokuapp.com/   
+   
+テストアカウント  
+ ・メールアドレス: Admin227@gmail.com  
+ ・パスワード: 2admin27  
   
 # 開発環境  
  ・PHP  
