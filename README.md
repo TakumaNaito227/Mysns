@@ -1,11 +1,21 @@
 # アプリケーション名
-[Mysns](http://my-snsx.herokuapp.com/)  
-
+## [Mysns](http://my-snsx.herokuapp.com/)  
+  
+  
+TOPページ
 ![画像名](./images/MysnsTop.png)  
-
+  
+  
+  
+ログインユーザーの記事一覧  
 ![画像名](./images/MysnsUserArticles.png)  
-
+  
+  
+  
+ログインユーザーのいいね一覧
 ![画像名](./images/MysnsUserLikes.png)  
+  
+  
   
 # このアプリで出来ること 
 自分の成長を投稿し、記録するアプリです。 
