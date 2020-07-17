@@ -59,4 +59,4 @@ URL http://my-snsx.herokuapp.com/
 
 # DB設計
   
-![画像名](ER図.png)
+![画像名](images/ER図.png)
