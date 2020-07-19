@@ -1,18 +1,22 @@
-# アプリケーション名
+# アプリケーション名  
+  
 ## [Mysns](http://my-snsx.herokuapp.com/)  
   
   
-TOPページ
+TOPページ  
+  
 ![画像名](./images/MysnsTop.png)  
   
   
   
 ログインユーザーの記事一覧  
+  
 ![画像名](./images/MysnsUserArticles.png)  
   
   
   
-ログインユーザーのいいね一覧
+ログインユーザーのいいね一覧  
+  
 ![画像名](./images/MysnsUserLikes.png)  
   
   
